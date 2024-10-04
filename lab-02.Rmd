@@ -1,6 +1,10 @@
 ---
 title: "Lab 02 - Global plastic waste"
-author: "Team Name: DrewGoldstein, ShaneChesen, Sam Prior, User4, User5 and User6"
+<<<<<<< HEAD
+author: "Team Name: DrewGoldstein, ShaneChesen, Sam Prior, User4, User5 and DimitrisAgouridis"
+=======
+author: "Team Name: DrewGoldstein, ShaneChesen, Sam Prior, user, Dimitris Bardanis and User6"
+>>>>>>> 5f97c5c434ebbf264c1315ae48f8c667f8342230
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -22,7 +26,7 @@ read_csv("data/mismanaged-plastic-waste-per-capita.csv")
 
 # Member 4 (pair 2) write code to load File 2 data here:
 
-
+file_2 <- read.delim("data/per-capita-ocean-plastic-waste.txt",sep=";")
 
 # Member 6 (pair 3) write code to load File 3 data here:
 
