@@ -60,7 +60,9 @@ plastic_data_all <- file_2 %>%
 
 # Member 6 (pair 3) write code to join your data to 'plastic_data_all':
 
-
+plastic_data_all <- file_3 %>%
+  select(-name) %>%
+  right_join(plastic_data_all, by = "code")
 
 
 # Member 1 (pair 1) write code to join your data to 'plastic_data_all':
