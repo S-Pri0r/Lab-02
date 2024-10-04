@@ -1,5 +1,5 @@
 ---
-title: "Lab 002 - Global plastic waste"
+title: "Lab 0002 - Global plastic waste"
 <<<<<<< HEAD
 <<<<<<< HEAD
 author: "Team Name: DrewGoldstein, ShaneChesen, Sam Prior, Memito08, Dimitris Bardanis and DimitrisAgouridis"
